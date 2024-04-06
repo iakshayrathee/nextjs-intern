@@ -90,7 +90,7 @@ function Landing() {
                                     <span className="flex flex-col items-center justify-center w-full  gap-y-5">
                                         <span className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
                                             <img
-                                                src={"Images/Google.png"}
+                                                src={"images/Google.png"}
                                                 alt="google here"
                                                 className="h-5 w-5"
                                             />
@@ -100,7 +100,7 @@ function Landing() {
                                         </span>
                                         <span className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
                                             <img
-                                                src={"Images/Facebook.png"}
+                                                src={"images/Facebook.png"}
                                                 alt="google here"
                                                 className="h-5 w-5"
                                             />
